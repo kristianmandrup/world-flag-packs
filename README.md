@@ -1,4 +1,4 @@
-## World flag images
+## World flag packs
 
 This World Flag repository contains various flag packages, both rectangular and round.
 The packs are:
